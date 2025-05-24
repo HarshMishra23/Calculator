@@ -29,13 +29,16 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 
 ![HTML](https://img.shields.io/badge/FirstTech-HTML-blue)
 ![HTML](https://img.shields.io/badge/SecondTech-CSS-black)
-![HTML](https://img.shields.io/badge/ThirdTech-JS-black)
+![HTML](https://img.shields.io/badge/ThirdTech-JS-blue)
 
 ## 🛠 Skills
 HTML, CSS, JS
 
 ## Demo | Netlify
 https://capable-donut-893561.netlify.app/
+
+## Screenshots
+![alt](./image.png)
 
 ## 🤝 Contributing
 
